@@ -1,58 +1,31 @@
 <div align="center">
 
-# Hey, I'm Yesol 👋
+# heoyesol
 
-### **Creative Developer** who builds things from scratch
+**Making things that don't exist yet.**
 
-> *I don't just code — I create worlds, automate workflows, and ship products.*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-heoyesol.kr-000?style=for-the-badge)](https://heoyesol.kr)
-[![WebPilot](https://img.shields.io/badge/🚀_WebPilot-Live_Demo-3182F6?style=for-the-badge)](https://web-pilot-engine.vercel.app)
+[![Website](https://img.shields.io/badge/heoyesol.kr-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://heoyesol.kr)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yesol-Pilot)
 
 </div>
 
 ---
 
-## 🔥 What I'm Building
+### Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[WebPilot Engine](https://github.com/Yesol-Pilot/WebPilot-Engine)** | AI-powered 3D world generator | Three.js · Gemini · TypeScript |
-| **[Multiverse Creature Lab](https://github.com/Yesol-Pilot/game)** | Creature collection & simulation game | JavaScript · Canvas |
-| **[Game Pipeline](https://github.com/Yesol-Pilot/game-pipeline)** | Automated CI/CD for game dev | Python · Godot · GitHub Actions |
-| **[3D Portfolio](https://github.com/Yesol-Pilot/portfolio)** | Cinematic interactive portfolio | React Three Fiber · Next.js |
+| Project | What it does | Link |
+|---------|-------------|------|
+| 🌌 **3D Cinematic Universe** | An interactive 3D universe built with React, Three.js, and WebGL | [Enter](https://heoyesol.kr/universe) · [Code](https://github.com/Yesol-Pilot/portfolio) |
+| 🚀 **WebPilot Engine** | AI-native 3D world generator — a single text prompt becomes a complete 3D world | [Try it](https://web-pilot-engine.vercel.app) · [Code](https://github.com/Yesol-Pilot/WebPilot-Engine) |
+| 🔥 **UR WRONG** | Real-time AI debate platform — AI ignites, humans fight | [Enter](https://ur-wrong.com) |
+| 🔧 **ToolPick** | SaaS decision engine for solo devs and small teams | [Visit](https://www.toolpick.dev) |
+| 📄 **EthicaAI** | Agent-based AI ethics simulation — from trolley problems to climate justice | [Code](https://github.com/Yesol-Pilot/EthicaAI) |
+| 🔬 **WhyLab** | Causal inference engine — tracing causation, not correlation | [Code](https://github.com/Yesol-Pilot/WhyLab) |
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Three.js-000?style=flat-square&logo=three.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Yesol's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Yesol-Pilot&show_icons=true&theme=tokyonight&hide_border=true)
-
-</div>
 ---
 
 <div align="center">
 
-*"The best way to predict the future is to build it."*
+*I don't just code — I create worlds, ship products, and ask hard questions.*
 
 </div>
