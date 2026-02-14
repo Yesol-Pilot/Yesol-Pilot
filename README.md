@@ -20,7 +20,7 @@
 | 🔥 **UR WRONG** | Real-time AI debate platform — AI ignites, humans fight | [Enter](https://ur-wrong.com) |
 | 🔧 **ToolPick** | SaaS decision engine for solo devs and small teams | [Visit](https://www.toolpick.dev) |
 | 📄 **EthicaAI** | Agent-based AI ethics simulation — from trolley problems to climate justice | [Code](https://github.com/Yesol-Pilot/EthicaAI) |
-| 🔬 **WhyLab** | Causal inference engine — tracing causation, not correlation | [Dashboard](https://dashboard-phi-six-78.vercel.app) · [Code](https://github.com/Yesol-Pilot/WhyLab) |
+| 🔬 **WhyLab** | Causal inference engine — tracing causation, not correlation | [Dashboard](https://whylab.vercel.app/dashboard) · [Code](https://github.com/Yesol-Pilot/WhyLab) |
 
 ---
 
