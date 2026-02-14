@@ -19,7 +19,7 @@
 | 🚀 **WebPilot Engine** | AI-native 3D world generator — a single text prompt becomes a complete 3D world | [Try it](https://web-pilot-engine.vercel.app) · [Code](https://github.com/Yesol-Pilot/WebPilot-Engine) |
 | 🔥 **UR WRONG** | Real-time AI debate platform — AI ignites, humans fight | [Enter](https://ur-wrong.com) |
 | 🔧 **ToolPick** | SaaS decision engine for solo devs and small teams | [Visit](https://www.toolpick.dev) |
-| 📄 **EthicaAI** | Agent-based AI ethics simulation — from trolley problems to climate justice | [Code](https://github.com/Yesol-Pilot/EthicaAI) |
+| 📄 **EthicaAI** | Agent-based AI ethics simulation — from trolley problems to climate justice | [Demo](https://ethicaai.vercel.app) · [Code](https://github.com/Yesol-Pilot/EthicaAI) |
 | 🔬 **WhyLab** | Causal inference engine — tracing causation, not correlation | [Dashboard](https://whylab.vercel.app/dashboard) · [Code](https://github.com/Yesol-Pilot/WhyLab) |
 
 ---
