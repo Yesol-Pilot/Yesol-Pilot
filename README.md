@@ -33,8 +33,8 @@
 | 🚀 **WebPilot Engine** | AI-native 3D world generator — text prompt → complete 3D world | [Try it](https://web-pilot-engine.vercel.app) · [Code](https://github.com/Yesol-Pilot/WebPilot-Engine) |
 | 🔥 **UR WRONG** | Real-time AI debate platform — AI ignites, humans fight | [Enter](https://ur-wrong.com) |
 | 🔧 **ToolPick** | SaaS decision engine for solo devs and small teams | [Visit](https://www.toolpick.dev) |
-| 📄 **EthicaAI** | Agent-based AI ethics simulation — trolley problems to climate justice | [Demo](https://ethicaai.vercel.app) · [Code](https://github.com/Yesol-Pilot/EthicaAI) |
-| 🔬 **WhyLab** | Causal inference engine — tracing causation, not correlation | [Dashboard](https://whylab.vercel.app/dashboard) · [Code](https://github.com/Yesol-Pilot/WhyLab) |
+| 📄 **EthicaAI** | Multi-Agent RL for Social Choice Theory — JAX GPU · Targeting NeurIPS 2026 | [Demo](https://ethicaai.vercel.app) · [Code](https://github.com/Yesol-Pilot/EthicaAI) · [Paper](https://doi.org/10.5281/zenodo.18719856) |
+| 🔬 **WhyLab** | Causal Decision Intelligence Engine — 16-cell pipeline · Multi-Agent Debate | [Dashboard](https://whylab.vercel.app/dashboard) · [Code](https://github.com/Yesol-Pilot/WhyLab) |
 
 ---
 
