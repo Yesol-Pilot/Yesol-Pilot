@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "ES6"
+    },
+    "exclude": [
+        ".agent",
+        ".gemini",
+        "node_modules",
+        "dist",
+        "build",
+        "images",
+        "assets",
+        "backups",
+        "_backup",
+        "**/*.json"
+    ]
+}

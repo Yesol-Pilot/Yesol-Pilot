@@ -1,0 +1,28 @@
+{
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "**/dist/**": true,
+        "**/build/**": true,
+        "**/images/**": true,
+        "**/assets/**": true,
+        "**/backups/**": true,
+        "**/_backup/**": true,
+        "**/.agent/**": true,
+        "**/.gemini/**": true
+    },
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/dist": true,
+        "**/build": true,
+        "**/.agent": true,
+        "**/.gemini": true,
+        "**/images": true,
+        "**/backups": true
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.DS_Store": true
+    }
+}
